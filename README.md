@@ -45,7 +45,7 @@
 6. Відкрийте ваш веб-браузер та перейдіть за посиланням
 
     ```bash
-     http://localhost:5000/api/v1/hello-world-22
+     http://localhost:8080/api/v1/hello-world-22
 
 ## Використання
 
